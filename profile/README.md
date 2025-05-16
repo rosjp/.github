@@ -3,6 +3,8 @@
 ROS Japan Users Group (ROS Japan UG/ROSJP)はROSに関する勉強会・講習会などを開催するユーザコミュニティです。  
 connpassではROSに関連する開発者会議、勉強会、ハッカソン、講習会などのイベント告知を行います。
 
+- Code of Conduct 行動規範 https://rosjp.github.io/code-of-conduct/
+
 ## ROSとは
 
 ROS (Robot Operating System)はロボットシステム開発を加速するプラットフォームです。
@@ -69,3 +71,4 @@ ROSJPの運営に興味のある方／協力したい方は、ぜひ下記の問
 問合せ先：  `rosjp-organizers(at)googlegroups.com`
 
 また、開催会場や配信機材の貸与、おやつや飲み物の提供などなど、ROSJPの開催に協力いただける協賛企業・団体の皆さまも募集しております。プレゼンタイムのご用意やイベントページでのアピールなど、できる限りの協賛メリットを提供いたします。ぜひご検討ください。
+
