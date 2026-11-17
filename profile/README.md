@@ -25,10 +25,9 @@ ROSの敷居を下げて、より多くの人に使ってもらうことが目�
 
 - connpass https://rosjp.connpass.com/
 
-さらに、SlackではROS関係の情報共有や議論がされているので、こちらも併せてご登録ください。
+さらに、ZulipではROS関係の情報共有や議論がされているので、こちらも併せてご登録ください。
 
-- Slack https://rosjp.slack.com
-    - 招待フォーム https://goo.gl/forms/bTA1P7oQo24lzTlX2
+- Zulip https://openrobotics.zulipchat.com/#narrow/channel/528046-Japan
 
 Xアカウント、YouTubeチャンネルもあります。
 
